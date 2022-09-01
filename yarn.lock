@@ -2858,11 +2858,6 @@ quick-lru@^5.1.1:
   resolved "https://registry.yarnpkg.com/quick-lru/-/quick-lru-5.1.1.tgz#366493e6b3e42a3a6885e2e99d18f80fb7a8c932"
   integrity sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==
 
-quick-pretty@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/quick-pretty/-/quick-pretty-0.3.1.tgz#5d406aeb44691f151a9cd7e094e8dea7f6bdaeac"
-  integrity sha512-bNiseFkJ9fl8YBJMY8YvX7jMHqwFQ/TyB8cpKfHqS2Kf9r95XOkj0Ub1qZZMq+3oFo4hVKmq6HslJhPlA6YjvQ==
-
 read-cache@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/read-cache/-/read-cache-1.0.0.tgz#e664ef31161166c9751cdbe8dbcf86b5fb58f774"
