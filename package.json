@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
-    "dev": "astro dev"
+    "dev": "astro dev",
+    "build": "astro build"
   },
   "devDependencies": {
     "@astrojs/tailwind": "^1.0.0",
